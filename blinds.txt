@@ -1,0 +1,8 @@
+["Small Blind", '',"small_blind.png"]
+["Big Blind", '',"big_blind.png"]
+["The Psychic","hand cannot play if the hand size is less than 5 cards","the_psychic.png"]
+["The Suit", f"{suit}s will not be in play","the_plant.png"]
+["The Water", "You start with 0 discards this round","the_water.png"]
+["The Face", "Face cards will not be in play","the_goad.png"]
+["The Base", "You will only have one hand to play this round","the_needle.png"]
+["The Wall", "EXTRA big blind","the_wall.png"]
