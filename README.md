@@ -102,14 +102,14 @@ pgzrun game.py
 ## Project Structure
 
 ```
-assets/          # Images, sounds, fonts
+fonts/           # Fonts
+images/          # Images
+music/           # Music 
 main.py          # Main game entry point
-cards.py         # Card logic
-jokers.py        # Joker abilities
+blind.txt        # Blind information
+jokers.txt       # Joker information
 ...
 ```
-
-*(Your file names may differ.)*
 
 ---
 
